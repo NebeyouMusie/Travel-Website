@@ -5,7 +5,7 @@ import meter from "@/public/meter.svg";
 
 const Guide = () => {
   return (
-    <section className="flexCenter flex-col">
+    <section id="guide" className="flexCenter flex-col">
       <div className="padding-container max-container w-full pb-24">
         <Image src={camp} alt="camp" width={50} height={50} />
         <p className="uppercase regular-18 -mt-1 mb-3 text-green-50">
@@ -17,9 +17,9 @@ const Guide = () => {
           </h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">
             Only with the hilink application you will no longer get lost and get
-            lost agin, because we already support offline maps when there is no
-            internet connection n the field. Invite your friends, relatives and
-            friends to ahve fun in the wilderness through the valley an reach
+            lost again, because we already support offline maps when there is no
+            internet connection in the field. Invite your friends, relatives and
+            friends to have fun in the wilderness through the valley an reach
             the top of the mountains.
           </p>
         </div>

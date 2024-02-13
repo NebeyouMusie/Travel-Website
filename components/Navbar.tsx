@@ -14,15 +14,15 @@ const Navbar = () => {
 
   return (
     <nav className="flexBetween max-container padding-container relative z-30 py-5 shadow-sm lg:shadow-none">
-      <Link href="/">
-        <Image src={logo} alt="logo" width={74} height={29} />
+      <Link href="#home">
+        <Image src={logo} alt="logo" width={100} height={29} />
       </Link>
       <ul className="hidden h-full gap-12 lg:flex">
         {NAV_LINKS.map((link) => (
           <Link
             href={link.href}
             key={link.key}
-            className="regular-16 text-gray-50 flexCenter cursor-pointer pb-1.5 transition-all hover:font-bold"
+            className="regular-16 text-gray-50 flexCenter cursor-pointer pb-1.5 transition-all hover:text-green-50 hover:font-medium"
           >
             {link.label}
           </Link>
@@ -54,6 +54,7 @@ const Navbar = () => {
                 href={link.href}
                 key={link.key}
                 className="regular-16 text-gray-50 flexCenter cursor-pointer pb-1.5 transition-all hover:font-bold"
+                onClick={() => setToggle(false)}
               >
                 {link.label}
               </Link>
