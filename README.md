@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HooBank Landing Page (React/JS + Tailwind CSS)
 
-## Getting Started
+## Image
 
-First, run the development server:
+![HiLink Landing Page Homepage](/public/travel-website.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Description
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Landing page for a travel website, built with cutting-edge Next.js 14, React, TypeScript and Tailwind CSS.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Live Project
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **URL:** https://hoobank-x.netlify.app/
+- **Open Live Demo:** [![Open in browser](https://img.shields.io/badge/Open_in_browser-online_at_https_hoobank-x_netlify_app_--_svg?style=for-the-badge&logo=Netlify)](https://hoobank-x.netlify.app/)
 
-## Learn More
+## Key Features
 
-To learn more about Next.js, take a look at the following resources:
+- Modern & Responsive: Designed for a delightful experience on any device, ensuring accessibility and convenience.
+- Interactive & Engaging: Explore features and services intuitively, with smooth transitions.
+- Seamless user experience: Navigate intuitively with Next.js's efficient routing and server-side rendering.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Next.js 14
+- React
+- TypeScript
+- Tailwind CSS
 
-## Deploy on Vercel
+## Installation and Setup
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository: `git clone https://github.com/NebeyouMusie/Travel-Website.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev` (or similar command based on your project setup)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Usage
+
+1. Open http://localhost:3000 (or the custom port specified) in your browser to explore the website locally.
+2. Explore the interactive elements and functionality of the landing page.
+
+## Credit
+
+- [@adrianhajdin](https://github.com/adrianhajdin)
+
+## Contact
+
+- [@NebeyouMusie](https://github.com/NebeyouMusie)
+- nebeyoumusie@gmail.com
