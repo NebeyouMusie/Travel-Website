@@ -10,8 +10,8 @@ Landing page for a travel website, built with cutting-edge Next.js 14, React, Ty
 
 ## Live Project
 
-- **URL:** https://hoobank-x.netlify.app/
-- **Open Live Demo:** [![Open in browser](https://img.shields.io/badge/Open_in_browser-online_at_https_hoobank-x_netlify_app_--_svg?style=for-the-badge&logo=Netlify)](https://hoobank-x.netlify.app/)
+- **URL:** https://hilink-x.vercel.app/
+- **Open Live Demo:** [![Open in browser](https://img.shields.io/badge/Open_in_browser-online_at_https_hilink-x_vercel_app_--_svg?style=for-the-badge&logo=Netlify)](https://hilink-x.vercel.app/)
 
 ## Key Features
 
