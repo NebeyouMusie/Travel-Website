@@ -1,4 +1,4 @@
-# HooBank Landing Page (React/JS + Tailwind CSS)
+# HiLink Landing Page (Next.JS + TypeScript + Tailwind CSS)
 
 ## Image
 
